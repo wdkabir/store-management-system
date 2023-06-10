@@ -1,1 +1,1 @@
-# Store-Management-System-In-C
+# Store Management System In C
